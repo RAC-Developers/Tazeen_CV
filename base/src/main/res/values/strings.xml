@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Tazeen\'s CV</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">Syeda Tazeen Batool</string>
+    <string name="resume_title">Student | Senior Year Undergraduate</string>
+    <string name="user_address">Lahore,Pakistan </string>
+    <string-array name="home">
+        <item>Home</item>
+        <item>Profile</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="email">tazeentirmazi25@gmail.com</string>
+    <string name="Address">Lahore, Pakistan</string>
+    <string name="description">Description</string>
+    <string name="AboutMe_Title">About Me</string>
+    <string name="Question1">Career Goal</string>
+    <string name="Question2">Ownership</string>
+    <string name="experience">Experience</string>
+    <string name="hands_on_skills">Skills</string>
+    <string name="phoneNumber">+923317189828</string>
+    <string name="Linkedin_IdLink">https://www.linkedin.com/in/tazeen-batool-396346192/</string>
+    <string name="Linkedin_UserName">tazeenbatool</string>
+    <string name="Github_UserName">tazeen_tirmazi</string>
+    <string name="Github_IdLink">https://github.com/RAC-Developers</string>
+    <string name="StackOverFlow_UserName">tazeen-batool</string>
+    <string name="stackOverFlow_IdLink">https://stackoverflow.com/users/11973707/tazeen-batool</string>
+    <string name="education">Education</string>
+    <string name="answer">I am passionate about working in an environment which adds meaning to my efforts.Contributing to the society which encouraged me to learn new things is something I would always go for.</string>
+    <string name="answer1">I\'m accountable at my work.Taking responsibility for somethings unfolds various perspectives of a thing and I am always up for a learning opportunity.</string>
+    <string name="experience_title">Word Press Developer</string>
+    <string name="experience_description">"\u2713 CPannel\n""\u2713 HTML, CSS, JavaScript \n""\u2713 Database\n"</string>
+    <string name="year11">(year)</string>
+    <string name="experience_description1">\u2713 Project: Sudoko on Visual Studio in C++ \n\u2713 Project: Brick Breaker in Aseembly Language\n\u2713 Project: Chess using Artificial Intelligence\n\u2713 Project: Library Management System in SQL\n\u2713 Project: Donation Management System in Java</string>
+    <string name="experience_year1">(year)</string>
+    <string name="experience_title2">Volunteer Work</string>
+    <string name="experience_description2">\u2713 Social Media and Promotions Team-ACM18 \n\u2713 Ceremonies Team-SSOFTEC18\n\u2713 Interior Team-SOFTEC19\n\u2713 Office Team-SOFTEC19.</string>
+    <string name="experience_year2">Aug 2012 – Jan 2014</string>
+
+    <string name="todo">TODO</string>
+    <string name="email_title">Email</string>
+    <string name="address_title">Address</string>
+    <string name="phone_number_title">Phone Number</string>
+    <string name="professional_links_title">Professional Links</string>
+    <string name="linkedin_title">Linkedin</string>
+    <string name="twitter_title">Twitter</string>
+    <string name="stack_overflow_title">Stack Overflow</string>
+    <string name="github_title">Github</string>
+    <string name="Metric_degree_title">Metric</string>
+    <string name="school_name">Al-Badar Public School</string>
+    <string name="intermediate_title">FSC Pre-Engineering</string>
+    <string name="college_title">Kinnaird College For Women University</string>
+    <string name="graduation_title">Bachelors in Computer Science (BSCS) </string>
+    <string name="university_title">National University College of Computer and Emerging Sciences</string>
+    <string name="degree_title1">Old Student Association FAST-OSAF</string>
+    <string name="degree_title2">Degree Title</string>
+    <string name="degree_title3">Degree Title</string>
+    <string name="school_year">(2014)</string>
+    <string name="college_year">(2014 – 2016)</string>
+    <string name="university_year">(2016 – 2020)</string>
+    <string name="certification_courses_title">Certifications</string>
+    <string name="institute_title">Certification for Web Development Workshop</string>
+    <string name="institute_year">(2017)</string>
+    <string name="institute_title1">Institute Title</string>
+    <string name="institude_year1">(year)</string>
+    <string name="grades1">(grades)</string>
+    <string name="institute_title2">Institute Title</string>
+    <string name="institute_year2">(year)</string>
+    <string name="skill_title_1">Android</string>
+    <string name="skill_title_2">Java</string>
+    <string name="skill_title_3">Web Development</string>
+    <string name="skill_title_4">Documentation</string>
+    <string name="skill_title_5">SQL</string>
+    <string name="projects_title">Projects</string>
+    <string name="why_i_did_choose_above_title_0">Why above:</string>
+    <string name="why_i_did_choose_above_title_1">Why did I choose CS:</string>
+    <string name="why_i_did_choose_work_2">"\u2713" I was fascinated by the technological development happening in the world of computers and by the ability to build whatever we want using these technologies.That\'s why I chose this field to explore more about it.</string>
+    <string name="why_i_did_choose_work_3">"\u2713" To get an exposure of working with student chapter of ACM and SOFTEC which is considered as biggest IT extravaganza in Pakistan.It helped me a lot in improving communication and learn how to work in teams to get an amazing outcome of combine efforts. </string>
+    <string name="company_name1">R&amp;A Consultants</string>
+    <string name="experience_time1">June 2019 - October 2019</string>
+    <string name="worked_on_title">Worked On:</string>
+    <string name="company_name2">National University College of Computer and Emerging Sciences</string>
+    <string name="experience_time2">August 2018 - December 2019 (~1.5 years)</string>
+    <string name="worked_on2">Worked On:</string>
+    <string name="company_name3">MobilezApp inc</string>
+    <string name="experience_time3">August 2012 - January 2014 (1.6 years)</string>
+    <string name="worked_on3">Worked On:</string>
+
+
+</resources>
